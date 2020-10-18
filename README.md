@@ -1,5 +1,5 @@
 # test-pro
 
-## Edting the file
+## Editing the file
 
 its a markdown file in the repository
